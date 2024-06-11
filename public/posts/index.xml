@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on 我的github博客</title>
-    <link>gianttt97.github.io/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on 我的github博客</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Jun 2024 12:06:50 +0800</lastBuildDate>
-    <atom:link href="gianttt97.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo指南</title>
-      <link>gianttt97.github.io/posts/hugo%E6%8C%87%E5%8D%97/</link>
+      <link>//localhost:1313/posts/hugo%E6%8C%87%E5%8D%97/</link>
       <pubDate>Tue, 11 Jun 2024 12:06:50 +0800</pubDate>
-      <guid>gianttt97.github.io/posts/hugo%E6%8C%87%E5%8D%97/</guid>
-      <description>常用命令 添加post hugo new posts/my-new-post.md 问题 papermod在hugo server &amp;ndash;destination和hugo server显示的主页不一样 https://poe.com/s/2uzbu3r2D7q5pFwzPWXq 知识点 在 Hugo 中，文章文件的前端信息（Front Matter）用于定义元数据，如标题、日期、标签等。前端信息可以使用三种格式：YAML、TOML 和 JSON。不同格式使用的分隔符不同： YAML：使用 --- 作为分隔符。 TOML：使用 +++ 作为分隔符。 JSON：使用 { 和 } 作为分隔符。 </description>
+      <guid>//localhost:1313/posts/hugo%E6%8C%87%E5%8D%97/</guid>
+      <description>常用命令 添加post hugo new posts/my-new-post.md 问题 papermod在hugo server &amp;ndash;destination和hugo server显示的主页不一样 检查 Front Matter的draft属性 知识点 在 Hugo 中，文章文件的前端信息（Front Matter）用于定义元数据，如标题、日期、标签等。前端信息可以使用三种格式：YAML、TOML 和 JSON。不同格式使用的分隔符不同： YAML：使用 --- 作为分隔符。 TOML：使用 +++ 作为分隔符。 JSON：使用 { 和 } 作为分隔符。 </description>
     </item>
     <item>
       <title>我的第一篇文章</title>
-      <link>gianttt97.github.io/posts/my-first-post/</link>
+      <link>//localhost:1313/posts/my-first-post/</link>
       <pubDate>Sun, 09 Jun 2024 12:20:43 +0800</pubDate>
-      <guid>gianttt97.github.io/posts/my-first-post/</guid>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
       <description></description>
     </item>
   </channel>
