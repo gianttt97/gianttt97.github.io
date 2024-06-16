@@ -6,8 +6,16 @@
     <description>Recent content in Posts on 我的github博客</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jun 2024 12:06:50 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 16:07:27 +0800</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>人工智能</title>
+      <link>//localhost:1313/posts/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link>
+      <pubDate>Fri, 14 Jun 2024 16:07:27 +0800</pubDate>
+      <guid>//localhost:1313/posts/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</guid>
+      <description>全景图 工具链 生命周期 Run:ai in full AI stack deal with VAST Data
+The Future of AI Infrastructure is Becoming Modular: Why Best-of-Breed MLOps Solutions are Taking Off &amp;amp; Top Players to Watch</description>
+    </item>
     <item>
       <title>Hugo指南</title>
       <link>//localhost:1313/posts/hugo%E6%8C%87%E5%8D%97/</link>
