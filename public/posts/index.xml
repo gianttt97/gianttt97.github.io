@@ -13,22 +13,8 @@
       <link>//localhost:1313/posts/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link>
       <pubDate>Fri, 14 Jun 2024 16:07:27 +0800</pubDate>
       <guid>//localhost:1313/posts/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</guid>
-      <description>全景图 工具链 生命周期 Run:ai in full AI stack deal with VAST Data
+      <description>生态 Run:ai in full AI stack deal with VAST Data
 The Future of AI Infrastructure is Becoming Modular: Why Best-of-Breed MLOps Solutions are Taking Off &amp;amp; Top Players to Watch</description>
-    </item>
-    <item>
-      <title>Hugo指南</title>
-      <link>//localhost:1313/posts/hugo%E6%8C%87%E5%8D%97/</link>
-      <pubDate>Tue, 11 Jun 2024 12:06:50 +0800</pubDate>
-      <guid>//localhost:1313/posts/hugo%E6%8C%87%E5%8D%97/</guid>
-      <description>常用命令 添加post hugo new posts/my-new-post.md 问题 papermod在hugo server &amp;ndash;destination和hugo server显示的主页不一样 检查 Front Matter的draft属性 知识点 在 Hugo 中，文章文件的前端信息（Front Matter）用于定义元数据，如标题、日期、标签等。前端信息可以使用三种格式：YAML、TOML 和 JSON。不同格式使用的分隔符不同： YAML：使用 --- 作为分隔符。 TOML：使用 +++ 作为分隔符。 JSON：使用 { 和 } 作为分隔符。 </description>
-    </item>
-    <item>
-      <title>我的第一篇文章</title>
-      <link>//localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sun, 09 Jun 2024 12:20:43 +0800</pubDate>
-      <guid>//localhost:1313/posts/my-first-post/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

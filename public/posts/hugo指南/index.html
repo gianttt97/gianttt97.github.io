@@ -7,7 +7,9 @@
 <meta name="robots" content="noindex, nofollow">
 <title>Hugo指南 | 我的github博客</title>
 <meta name="keywords" content="">
-<meta name="description" content="常用命令 添加post hugo new posts/my-new-post.md 问题 papermod在hugo server &ndash;destination和hugo server显示的主页不一样 检查 Front Matter的draft属性 知识点 在 Hugo 中，文章文件的前端信息（Front Matter）用于定义元数据，如标题、日期、标签等。前端信息可以使用三种格式：YAML、TOML 和 JSON。不同格式使用的分隔符不同： YAML：使用 --- 作为分隔符。 TOML：使用 &#43;&#43;&#43; 作为分隔符。 JSON：使用 { 和 } 作为分隔符。 ">
+<meta name="description" content="常用命令 添加post hugo new posts/my-new-post.md 问题 papermod在hugo server &ndash;destination和hugo server显示的主页不一样 检查 Front Matter的draft属性 知识点 在 Hugo 中，文章文件的前端信息（Front Matter）用于定义元数据，如标题、日期、标签等。前端信息可以使用三种格式：YAML、TOML 和 JSON。不同格式使用的分隔符不同： YAML：使用 --- 作为分隔符。 TOML：使用 &#43;&#43;&#43; 作为分隔符。 JSON：使用 { 和 } 作为分隔符。 hugo直接嵌入在posts文件夹的图片，编译后会产生路径问题，需要在config.toml中配置assetDir属性，指定图片路径
+如何显示图片
+https://www.yuweihung.com/posts/2021/hugo-blog-picture/ 缺点：都叫index.md，不好区分">
 <meta name="author" content="">
 <link rel="canonical" href="//localhost:1313/posts/hugo%E6%8C%87%E5%8D%97/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.4599eadb9eb2ad3d0a8d6827b41a8fda8f2f4af226b63466c09c5fddbc8706b7.css" integrity="sha256-RZnq256yrT0KjWgntBqP2o8vSvImtjRmwJxf3byHBrc=" rel="preload stylesheet" as="style">
@@ -132,6 +134,18 @@
 <li>TOML：使用 <code>+++</code> 作为分隔符。</li>
 <li>JSON：使用 <code>{</code> 和 <code>}</code> 作为分隔符。</li>
 </ul>
+</blockquote>
+<ol start="2">
+<li>
+<p>hugo直接嵌入在<code>posts</code>文件夹的图片，编译后会产生路径问题，需要在<code>config.toml</code>中配置<code>assetDir</code>属性，指定图片路径</p>
+</li>
+<li>
+<p>如何显示图片</p>
+</li>
+</ol>
+<blockquote>
+<p><a href="https://www.yuweihung.com/posts/2021/hugo-blog-picture/">https://www.yuweihung.com/posts/2021/hugo-blog-picture/</a>
+缺点：都叫index.md，不好区分</p>
 </blockquote>
 
 
